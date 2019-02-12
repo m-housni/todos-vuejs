@@ -6,13 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Todos</title>
     <script src="https://cdn.jsdelivr.net/npm/vue"></script>
-</head>
-<body>
-
-    <div id="app">
-        {{name}}
-    </div>
-
     <script>
     new Vue({
         'el':'#app',
@@ -22,6 +15,14 @@
     });
     
     </script>
+</head>
+<body>
+
+    <div id="app">
+        {{name}}
+    </div>
+
+  
     
 </body>
 </html>
