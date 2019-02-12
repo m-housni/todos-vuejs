@@ -20,7 +20,7 @@
         'data:'{
             name:'AppName'
         }
-    })
+    });
     
     </script>
     
